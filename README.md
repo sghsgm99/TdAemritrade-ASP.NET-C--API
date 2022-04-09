@@ -86,9 +86,3 @@ I have included a AspNetCore example with Dataprotection implemented using a web
 5) Input the code into the 'PostAccessToken' field
 7) This will write a security file (TDAmeritradeKey).
 8) Enjoy
-
-### Credits
-
-Copyright (c) 2021 [Nicholas Ventimiglia](https://www.nicholasventimiglia.com)
-
-Logo image is a trademark of TD Ameritrade, Inc.
